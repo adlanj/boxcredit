@@ -43,7 +43,7 @@ export default function Navbar() {
 
           {/* LOGO */}
           <div className="flex items-center gap-3">
-            <img src="/logo.svg" className="h-8" alt="LOGO" />
+            <img src="/logo.gif" className="h-8" alt="LOGO" />
             <span className="text-white text-2xl font-semibold">BOX CREDIT</span>
           </div>
 
